@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0053-maximum-subarray) |
+| [0485-max-consecutive-ones](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0485-max-consecutive-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
