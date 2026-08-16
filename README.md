@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0054-spiral-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MR-ROGUE01/Problem_solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/MR-ROGUE01/Problem_solving/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
