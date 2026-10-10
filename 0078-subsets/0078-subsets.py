@@ -1,13 +1,20 @@
 class Solution:
     def subsets(self, nums: list[int]) -> list[list[int]]:
-        result_set = []
-        n = len(nums)
-        total = 1<<n
-        for num in range(0,total):
-            lst = []
-            for i in range(0,n):
-                if num & (1<<i) != 0:
-                    lst.append(nums[i])
-            result_set.append(lst)
-        return result_set 
-        
+        subset = []
+        result = []
+
+        def solve(ind, subset):
+            if ind >= len(nums):
+                result.append(subset.copy())
+                return
+
+            # Include current element
+            subset.append(nums[ind])
+            solve(ind + 1, subset)
+
+            # Exclude current element
+            subset.pop()
+            solve(ind + 1, subset)
+
+        solve(0, subset)
+        return result
